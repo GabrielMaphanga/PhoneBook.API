@@ -1,0 +1,12 @@
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\bin\Debug\netcoreapp3.1\PhoneBook.Infrastructure.deps.json
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\bin\Debug\netcoreapp3.1\PhoneBook.Infrastructure.dll
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\bin\Debug\netcoreapp3.1\PhoneBook.Infrastructure.pdb
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\bin\Debug\netcoreapp3.1\PhoneBook.Core.dll
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\bin\Debug\netcoreapp3.1\PhoneBook.Core.pdb
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.csprojAssemblyReference.cache
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.AssemblyInfo.cs
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.csproj.CopyComplete
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.dll
+C:\Projects\PhoneBook\PhoneBook\PhoneBook.Infrastructure\obj\Debug\netcoreapp3.1\PhoneBook.Infrastructure.pdb

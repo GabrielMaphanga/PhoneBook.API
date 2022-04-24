@@ -12,7 +12,6 @@ namespace PhoneBook.Core
         public int Id { get; set; }
         [DataMember(Name = "name")]
        public string Name { get; set; }
-
         [DataMember(Name = "number")]
         public string Number { get; set; }
     }

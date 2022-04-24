@@ -16,9 +16,7 @@ namespace PhoneBook.API.Controllers
     public class PhoneBookController : ControllerBase
     {
         private IPhoneBookRepository _phoneBookRepository;
-
-
-        public PhoneBookController(IPhoneBookRepository phoneBookRepository)
+ public PhoneBookController(IPhoneBookRepository phoneBookRepository)
         {
             _phoneBookRepository = phoneBookRepository;
         }

@@ -11,7 +11,6 @@ namespace PhoneBook.Core.Interfaces
         bool DeleteEntry(int entryId);
         Entry UpdateEntry(Entry entry);
         bool AddEntry(Entry entry);
-
         Entry FindEntry(string name);
     }
 }

@@ -64,17 +64,13 @@ namespace PhoneBook.API
 
             app.UseAuthorization();
 
-         
-
-          
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "PhoneBook Management API");
 
             });
-
-            app.UseEndpoints(endpoints =>
+ app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });

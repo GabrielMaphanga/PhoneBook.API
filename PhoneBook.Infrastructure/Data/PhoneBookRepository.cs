@@ -36,6 +36,7 @@ namespace PhoneBook.Infrastructure.Data
             return false;
         }
 
+
         public bool DeleteEntry(int entryId)
         {
             using (IDbConnection dbConnection = Connection)
